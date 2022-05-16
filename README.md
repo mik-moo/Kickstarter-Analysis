@@ -14,7 +14,7 @@ Determine how different campaigns fared in relation to their launch dates and fu
 
 - Categorized outcome data with conditional formatting.
 
-![conditional formatting screen capture](Resources%5CConditional_Formatting_Outcomes.PNG)
+![conditional formatting screen capture](Resources/Conditional_Formatting_Outcomes.PNG)
 
 - Converted launch date and deadline to mm/dd/yyyy format and pulled the launch year to a separate column.
 
@@ -30,13 +30,13 @@ Determine how different campaigns fared in relation to their launch dates and fu
 
 - Created a pivot table comparing successful, failed and canceled campaigns by month.  These were filtered by the subcategory theater.  These were then charted in a line graph. 
 
-![Theater Outcomes vs Launch](Resources%5CTheater_Outcomes_vs_Launch.png)
+![Theater Outcomes vs Launch](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 
 - Created Goal categories and percentage sucessful, percentage failed and percentage canceled of the total plays subcategory.  These are presented in a line graph. 
 
-![Outcomes vs Goals](Resources%5COutcomes_vs_Goals.png)
+![Outcomes vs Goals](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties Encountered
 
@@ -52,4 +52,4 @@ Based on the dataset, there is a lack of informative data in the higher goal ran
 
 An additional analysis could compare the number instead of percentage for success, failure, and canceled.  This would help to determine the trend lines.  This shows the lack of campaigns in the higher ranges and makes it more evident that they may be under-represented in the dataset.
 
-![Outcomes vs goals using number](Resources%5COutcomes_vs_Goals_Number.png)
+![Outcomes vs goals using number](Resources/Outcomes_vs_Goals_Number.png)
